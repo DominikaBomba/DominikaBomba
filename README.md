@@ -7,24 +7,22 @@
 
 # I'm Dominika Bomba
 
-I’m passionate about coding and developing projects that create a real positive impact on people’s lives. My greatest inspiration comes from people and meaningful conversations.
+I’m passionate about coding and developing projects that create a real positive impact on people’s lives. My greatest inspiration comes from people and meaningful conversations!!
 ## My favourite projects
 
 [Ambition Link](https://ambilink.pl)</br>
 **Educational platform**, created to promote self-development, opportunities, and mentorship with more than 600 users
 I’m the **cofounder** and backend/database lead. We work in a team of three girls from a technical high school.
 
+
+[Interactive 3D Particle Simulation](https://github.com/DominikaBomba/symulacja_pole_magnetyczne)</br>
+An interactive simulation showing the motion of an elementary particle in a magnetic field. Developed as a 2D simulation using C++ and OpenGL. Currently working on a 3D Simulation
+
 [Restaurant Console App](https://github.com/DominikaBomba/restaurant_manager)</br>
 Role-based restaurant management system with login/register flow and separate interfaces for admin, customer, waiter, and chef – built in C# with Spectre.Console.
 
 [Stadium Creator](https://github.com/DominikaBomba/StadiumCreator)</br>
 A console app in C# that lets users manage stadiums, events, performers, and tickets. Built using object-oriented principles and .NET 8.
-
-[Educational videos about the facade design pattern](https://dominikabomba.github.io/design_pattern_facade/)</br>
-A website with a series of funny, educational videos about the facade design pattern I created with my friends to help students understand it in an easy and accessible way
-
-[Future School website](https://dominikabomba.github.io/FutureSchoolProject.github.io/main/index.html)</br>
-Website created as part of the project 'Future School' created in cooperation with Friedrich-Albert-Lange-Schule (FALS) in Germany.
 
 ## Tech I know and use
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dominikabomba&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
